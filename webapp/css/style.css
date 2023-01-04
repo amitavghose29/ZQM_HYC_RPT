@@ -1,0 +1,8 @@
+/* Enter your custom styles here */
+.sapFDynamicPageTitle {
+    background-color: cornflowerblue !important;
+}
+
+.sapMListTblCell.sapMListTblHeaderCell {
+    background-color: cornflowerblue !important;
+}
